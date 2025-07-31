@@ -24,7 +24,7 @@ Permite buscar juegos, agregarlos a tu colección, ver información como carátu
 - Añadir notas personales y progreso
 - Filtrar por plataforma, estado y más
 - Mostrar enlaces a tiendas oficiales
-- (Opcional) Ver precios actualizados de tiendas de PC con ITAD
+- Ver precios actualizados de tiendas de PC con ITAD
 
 ---
 
